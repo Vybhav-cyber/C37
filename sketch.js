@@ -1,5 +1,6 @@
 var canvas, backgroundImage;
 
+var car1, car2,car3, car4, cars;
 var gameState = 0;
 var playerCount;
 var allPlayers;
